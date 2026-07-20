@@ -1,4 +1,5 @@
 # test1
+
 harsh free fire khel raha hai
 
 this is my second line and second attempt to use keybord instead of copy paste
@@ -10,4 +11,10 @@ Then we use -git add (file name) command,
 Then we use -git commit -m (comment) command,
 
 Then we use -git push,
+
+# Image file
+
+![RonaldoImage](images.jpeg)
+
+
 
